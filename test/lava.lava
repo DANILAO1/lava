@@ -1,0 +1,7 @@
+// this is lava. but not in work
+
+.PROGRAM main start:
+
+print "hello world!";
+
+.PROGRAM main end:

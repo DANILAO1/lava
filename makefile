@@ -1,2 +1,2 @@
 all:
-	gcc main.c -o main -std=c17
+	g++ src/*.cpp -o lava -std=c++20
